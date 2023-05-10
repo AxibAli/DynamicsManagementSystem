@@ -1,0 +1,17 @@
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\bin\Debug\net6.0\DMS.BL.deps.json
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\bin\Debug\net6.0\DMS.BL.dll
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\bin\Debug\net6.0\ref\DMS.BL.dll
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\bin\Debug\net6.0\DMS.BL.pdb
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\bin\Debug\net6.0\DMS.Common.dll
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\bin\Debug\net6.0\DMS.DAL.dll
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\bin\Debug\net6.0\DMS.Common.pdb
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\bin\Debug\net6.0\DMS.DAL.pdb
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\obj\Debug\net6.0\DMS.BL.csproj.AssemblyReference.cache
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\obj\Debug\net6.0\DMS.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\obj\Debug\net6.0\DMS.BL.AssemblyInfoInputs.cache
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\obj\Debug\net6.0\DMS.BL.AssemblyInfo.cs
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\obj\Debug\net6.0\DMS.BL.csproj.CoreCompileInputs.cache
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\obj\Debug\net6.0\DMS.BL.csproj.CopyComplete
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\obj\Debug\net6.0\DMS.BL.dll
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\obj\Debug\net6.0\ref\DMS.BL.dll
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\obj\Debug\net6.0\DMS.BL.pdb

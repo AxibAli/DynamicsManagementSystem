@@ -1,0 +1,12 @@
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\bin\Debug\net6.0\DMS.Common.deps.json
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\bin\Debug\net6.0\DMS.Common.dll
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\bin\Debug\net6.0\ref\DMS.Common.dll
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\bin\Debug\net6.0\DMS.Common.pdb
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\obj\Debug\net6.0\DMS.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\obj\Debug\net6.0\DMS.Common.AssemblyInfoInputs.cache
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\obj\Debug\net6.0\DMS.Common.AssemblyInfo.cs
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\obj\Debug\net6.0\DMS.Common.csproj.CoreCompileInputs.cache
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\obj\Debug\net6.0\DMS.Common.dll
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\obj\Debug\net6.0\ref\DMS.Common.dll
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\obj\Debug\net6.0\DMS.Common.pdb
+C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\obj\Debug\net6.0\DMS.Common.csproj.AssemblyReference.cache

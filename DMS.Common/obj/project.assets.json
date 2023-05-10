@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ValueInjecter/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Omu.ValueInjecter.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Omu.ValueInjecter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ValueInjecter/3.2.0": {
+      "sha512": "cB+YW4Jb9DRwLkAEsLZhK1mKvi5gwhPav9zMDrKaCH6CfheDcy7eJREEqshK81aP5j+48FyBeFE5PxbWwjpwYg==",
+      "type": "package",
+      "path": "valueinjecter/3.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Omu.ValueInjecter.dll",
+        "lib/net45/Omu.ValueInjecter.xml",
+        "lib/netstandard1.6/Omu.ValueInjecter.dll",
+        "lib/netstandard1.6/Omu.ValueInjecter.xml",
+        "lib/netstandard2.0/Omu.ValueInjecter.dll",
+        "lib/netstandard2.0/Omu.ValueInjecter.xml",
+        "valueinjecter.3.2.0.nupkg.sha512",
+        "valueinjecter.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ValueInjecter >= 3.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\S.M.'s Pro\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\S.M.'s Pro\\Downloads\\Software Development\\DMS.API\\DMS.Common\\DMS.Common.csproj",
+      "projectName": "DMS.Common",
+      "projectPath": "C:\\Users\\S.M.'s Pro\\Downloads\\Software Development\\DMS.API\\DMS.Common\\DMS.Common.csproj",
+      "packagesPath": "C:\\Users\\S.M.'s Pro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\S.M.'s Pro\\Downloads\\Software Development\\DMS.API\\DMS.Common\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\S.M.'s Pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "ValueInjecter": {
+            "target": "Package",
+            "version": "[3.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

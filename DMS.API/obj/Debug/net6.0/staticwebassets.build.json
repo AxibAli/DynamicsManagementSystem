@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "qZTnhKONGjtyuMRHDnAvMs01at3MEd6yWEISns+QW1M=",
+  "Source": "DMS.API",
+  "BasePath": "_content/DMS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DMS.API\\wwwroot",
+      "Source": "DMS.API",
+      "ContentRoot": "C:\\Users\\S.M.'s Pro\\Downloads\\Software Development\\DMS.API\\DMS.API\\wwwroot\\",
+      "BasePath": "_content/DMS.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
