@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\S.M.'s Pro\\Downloads\\Software Development\\DMS.API\\DMS.DAL\\DMS.DAL.csproj": {}
+    "C:\\Users\\Khizir Farrukh\\OneDrive\\github repos\\DynamicsManagementSystem\\DMS.DAL\\DMS.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\S.M.'s Pro\\Downloads\\Software Development\\DMS.API\\DMS.DAL\\DMS.DAL.csproj": {
+    "C:\\Users\\Khizir Farrukh\\OneDrive\\github repos\\DynamicsManagementSystem\\DMS.DAL\\DMS.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S.M.'s Pro\\Downloads\\Software Development\\DMS.API\\DMS.DAL\\DMS.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Khizir Farrukh\\OneDrive\\github repos\\DynamicsManagementSystem\\DMS.DAL\\DMS.DAL.csproj",
         "projectName": "DMS.DAL",
-        "projectPath": "C:\\Users\\S.M.'s Pro\\Downloads\\Software Development\\DMS.API\\DMS.DAL\\DMS.DAL.csproj",
-        "packagesPath": "C:\\Users\\S.M.'s Pro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S.M.'s Pro\\Downloads\\Software Development\\DMS.API\\DMS.DAL\\obj\\",
+        "projectPath": "C:\\Users\\Khizir Farrukh\\OneDrive\\github repos\\DynamicsManagementSystem\\DMS.DAL\\DMS.DAL.csproj",
+        "packagesPath": "C:\\Users\\Khizir Farrukh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Khizir Farrukh\\OneDrive\\github repos\\DynamicsManagementSystem\\DMS.DAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\S.M.'s Pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Khizir Farrukh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +57,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -69,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

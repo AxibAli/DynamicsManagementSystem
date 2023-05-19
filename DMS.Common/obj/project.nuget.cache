@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WjIfsFWUPbanh4AZkLjS6RqG+D1fGR4K3VvC3zJ49gVilPhKIxfjIxsarnXoXOUyH4ppHiXp6YN3JJ0TFwqaPA==",
+  "dgSpecHash": "b+CIkcrlDyHAd7jKEAFILdFfzjUwBt6j8K7FgDqG7U+PDNnVWg9AFbRxWHpnW6qaUHvVRhF/xNRVScqVX4gqCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S.M.'s Pro\\Downloads\\Software Development\\DMS.API\\DMS.Common\\DMS.Common.csproj",
+  "projectFilePath": "C:\\Users\\Khizir Farrukh\\OneDrive\\github repos\\DynamicsManagementSystem\\DMS.Common\\DMS.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\S.M.'s Pro\\.nuget\\packages\\valueinjecter\\3.2.0\\valueinjecter.3.2.0.nupkg.sha512"
+    "C:\\Users\\Khizir Farrukh\\.nuget\\packages\\valueinjecter\\3.2.0\\valueinjecter.3.2.0.nupkg.sha512"
   ],
   "logs": []
 }

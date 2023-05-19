@@ -15,4 +15,8 @@
     <ProjectReference Include="..\DMS.DAL\DMS.DAL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DTOs\TeacherDTOs\" />
+  </ItemGroup>
+
 </Project>
