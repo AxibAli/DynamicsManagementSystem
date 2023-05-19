@@ -10,6 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddDbContextPool<ApplicationDBContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("cs")));
 builder.Services.AddScoped<IStudentRepo, StudentRepo>();
+builder.Services.AddScoped<ITeacherRepo, TeacherRepo>();
 
 builder.Services.AddSwaggerGen();
 builder.Services.AddCors(opt =>

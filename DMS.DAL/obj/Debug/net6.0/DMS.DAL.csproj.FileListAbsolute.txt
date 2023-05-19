@@ -11,3 +11,17 @@ C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.DAL\obj\Debug\net
 C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.DAL\obj\Debug\net6.0\ref\DMS.DAL.dll
 C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.DAL\obj\Debug\net6.0\DMS.DAL.pdb
 C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.DAL\obj\Debug\net6.0\DMS.DAL.genruntimeconfig.cache
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\bin\Debug\net6.0\DMS.DAL.deps.json
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\bin\Debug\net6.0\DMS.DAL.runtimeconfig.json
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\bin\Debug\net6.0\DMS.DAL.dll
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\bin\Debug\net6.0\DMS.DAL.pdb
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\obj\Debug\net6.0\DMS.DAL.csproj.AssemblyReference.cache
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\obj\Debug\net6.0\DMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\obj\Debug\net6.0\DMS.DAL.AssemblyInfoInputs.cache
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\obj\Debug\net6.0\DMS.DAL.AssemblyInfo.cs
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\obj\Debug\net6.0\DMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\obj\Debug\net6.0\DMS.DAL.dll
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\obj\Debug\net6.0\refint\DMS.DAL.dll
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\obj\Debug\net6.0\DMS.DAL.pdb
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\obj\Debug\net6.0\DMS.DAL.genruntimeconfig.cache
+C:\Users\Khizir Farrukh\OneDrive\github repos\DynamicsManagementSystem\DMS.DAL\obj\Debug\net6.0\ref\DMS.DAL.dll

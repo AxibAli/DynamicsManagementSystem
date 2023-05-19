@@ -11,7 +11,7 @@ namespace DMS.Common
         // Status
         public const bool SUCCESS = true;
         public const bool FAILURE = false;
-
+        public const string NOTFOUND = "{0} Not Found";
         //
         public const string TESTING = "testing...";
 

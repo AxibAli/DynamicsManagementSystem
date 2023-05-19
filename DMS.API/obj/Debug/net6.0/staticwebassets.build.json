@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qZTnhKONGjtyuMRHDnAvMs01at3MEd6yWEISns+QW1M=",
+  "Hash": "0/ljwE7rpcP4iok2ziYUHah1SIFrDSyHQflol1JP0sM=",
   "Source": "DMS.API",
   "BasePath": "_content/DMS.API",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "DMS.API\\wwwroot",
       "Source": "DMS.API",
-      "ContentRoot": "C:\\Users\\S.M.'s Pro\\Downloads\\Software Development\\DMS.API\\DMS.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Khizir Farrukh\\OneDrive\\github repos\\DynamicsManagementSystem\\DMS.API\\wwwroot\\",
       "BasePath": "_content/DMS.API",
       "Pattern": "**"
     }
