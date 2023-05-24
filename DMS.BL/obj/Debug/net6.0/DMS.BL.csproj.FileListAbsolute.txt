@@ -15,3 +15,20 @@ C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\obj\Debug\net6
 C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\obj\Debug\net6.0\DMS.BL.dll
 C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\obj\Debug\net6.0\ref\DMS.BL.dll
 C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.BL\obj\Debug\net6.0\DMS.BL.pdb
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\bin\Debug\net6.0\DMS.BL.deps.json
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\bin\Debug\net6.0\DMS.BL.dll
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\bin\Debug\net6.0\DMS.BL.pdb
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\bin\Debug\net6.0\DMS.Common.dll
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\bin\Debug\net6.0\DMS.DAL.dll
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\bin\Debug\net6.0\DMS.Common.pdb
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\bin\Debug\net6.0\DMS.DAL.pdb
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\obj\Debug\net6.0\DMS.BL.csproj.AssemblyReference.cache
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\obj\Debug\net6.0\DMS.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\obj\Debug\net6.0\DMS.BL.AssemblyInfoInputs.cache
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\obj\Debug\net6.0\DMS.BL.AssemblyInfo.cs
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\obj\Debug\net6.0\DMS.BL.csproj.CoreCompileInputs.cache
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\obj\Debug\net6.0\DMS.BL.csproj.CopyComplete
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\obj\Debug\net6.0\DMS.BL.dll
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\obj\Debug\net6.0\refint\DMS.BL.dll
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\obj\Debug\net6.0\DMS.BL.pdb
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.BL\obj\Debug\net6.0\ref\DMS.BL.dll

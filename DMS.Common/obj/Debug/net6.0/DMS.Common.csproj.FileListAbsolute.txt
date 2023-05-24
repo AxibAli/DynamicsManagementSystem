@@ -10,3 +10,15 @@ C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\obj\Debug\
 C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\obj\Debug\net6.0\ref\DMS.Common.dll
 C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\obj\Debug\net6.0\DMS.Common.pdb
 C:\Users\S.M.'s Pro\Downloads\Software Development\DMS.API\DMS.Common\obj\Debug\net6.0\DMS.Common.csproj.AssemblyReference.cache
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.Common\bin\Debug\net6.0\DMS.Common.deps.json
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.Common\bin\Debug\net6.0\DMS.Common.dll
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.Common\bin\Debug\net6.0\DMS.Common.pdb
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.Common\obj\Debug\net6.0\DMS.Common.csproj.AssemblyReference.cache
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.Common\obj\Debug\net6.0\DMS.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.Common\obj\Debug\net6.0\DMS.Common.AssemblyInfoInputs.cache
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.Common\obj\Debug\net6.0\DMS.Common.AssemblyInfo.cs
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.Common\obj\Debug\net6.0\DMS.Common.csproj.CoreCompileInputs.cache
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.Common\obj\Debug\net6.0\DMS.Common.dll
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.Common\obj\Debug\net6.0\refint\DMS.Common.dll
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.Common\obj\Debug\net6.0\DMS.Common.pdb
+C:\Plural Dynamics\Dynamics Management System\DynamicsManagementSystem\DMS.Common\obj\Debug\net6.0\ref\DMS.Common.dll

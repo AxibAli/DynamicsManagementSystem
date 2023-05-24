@@ -1,6 +1,8 @@
+using DMS.API;
 using DMS.BL.Services;
 using DMS.DAL.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 const string _policy = "CorsPolicy";
 var builder = WebApplication.CreateBuilder(args);
@@ -9,12 +11,13 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddDbContextPool<ApplicationDBContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("cs")));
-builder.Services.AddScoped<IStudentRepo, StudentRepo>();
+
+builder.Services.RegisterServices(builder.Configuration);
 
 builder.Services.AddSwaggerGen();
 builder.Services.AddCors(opt =>
 {
-    opt.AddPolicy(name: _policy, builder =>
+    opt.AddPolicy(name: "CorsPolicy", builder =>
     {
         builder.AllowAnyOrigin()
             .AllowAnyHeader()
@@ -22,6 +25,8 @@ builder.Services.AddCors(opt =>
             .AllowAnyOrigin();
     });
 });
+
+//ServiceRegistration.RegisterServices(builder.Services, builder.Configuration);
 
 var app = builder.Build();
 // Configure the HTTP request pipeline.
